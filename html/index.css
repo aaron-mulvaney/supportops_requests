@@ -1,0 +1,57 @@
+.container-fluid{
+  margin-top: 50px;
+}
+
+.main{
+  text-align: center;
+  width: 750px;
+  height: auto;
+  margin: 0 auto;
+  position: relative;
+  border-style: solid;
+  border-width: 1px;
+  padding: 25px;
+  box-shadow: 0px 10px 15px #888888;
+}
+
+.table td {
+  border: none !important;
+  vertical-align: middle;
+}
+
+.table p{
+  text-align: left;
+}
+
+.row{
+  display: inline-block;
+}
+
+.services {
+  width: 150px;
+  height: 150px;
+  padding-bottom: 20px;
+}
+
+.issues {
+  width: 25px;
+  height: 25px;
+}
+
+.inner-headings{
+  font-weight: bold;
+}
+
+.links{
+  font-size: 25px;
+}
+
+.issuesLinks{
+  color: black;
+  text-decoration: none;
+}
+
+a:link{
+  text-decoration: none;
+}
+
